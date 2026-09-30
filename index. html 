@@ -35,7 +35,7 @@
             font-size: 15px;
         }
 
-        nav {
+        nav 
             background: #083b8a;
             padding: 12px;
             text-align: center;
